@@ -16,8 +16,8 @@ export const metadata: Metadata = {
     telephone: false,
   },
   icons: {
-    icon: '/icon-192.png',
-    apple: '/icon-192.png',
+    icon: '/icon-192.svg',
+    apple: '/icon-192.svg',
   },
 };
 
@@ -38,8 +38,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
         <meta name="apple-mobile-web-app-title" content="NeuroEase" />
-        <link rel="apple-touch-icon" href="/icon-192.png" />
-        <link rel="icon" type="image/png" href="/icon-192.png" />
+        <link rel="apple-touch-icon" href="/icon-192.svg" />
+        <link rel="icon" type="image/svg+xml" href="/icon-192.svg" />
       </head>
       <body className="bg-gray-900 text-neutral-50 antialiased">
         <AccessibilityProvider>
