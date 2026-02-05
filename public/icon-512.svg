@@ -7,5 +7,5 @@
   </defs>
   <rect width="512" height="512" fill="#0f172a"/>
   <circle cx="256" cy="256" r="200" fill="url(#grad1)"/>
-  <text x="256" y="290" font-size="150" font-weight="bold" text-anchor="middle" fill="white" font-family="Arial, sans-serif">NE</text>
+  <text x="256" y="290" font-size="160" font-weight="bold" text-anchor="middle" fill="white" font-family="Arial, sans-serif">NE</text>
 </svg>
